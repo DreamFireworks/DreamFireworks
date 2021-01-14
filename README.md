@@ -1,4 +1,4 @@
-<h3 align="center">"But to me, girl, you're so much more than gorgeous"</h3>
+<h3 align="center">"And miles to go before I sleep"</h3>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamfireworks&hide=contribs&show_icons=true&locale=en&theme=dark" alt="dreamfireworks" />
 </a>
