@@ -11,6 +11,8 @@
 </a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dreamfireworks&-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank" align="left">
   <img src="https://komarev.com/ghpvc/?username=dreamfireworks&label=Profile%20views&color=0e75b6&style=flat" alt="dreamfireworks" />
 </a>
