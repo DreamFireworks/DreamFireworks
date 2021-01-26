@@ -9,7 +9,8 @@
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamfireworks&theme=dark" alt="dreamfireworks" />
 </a> -->
-<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dreamfireworks&-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank" align="left">
   <img src="https://komarev.com/ghpvc/?username=dreamfireworks&label=Profile%20views&color=0e75b6&style=flat" alt="dreamfireworks" />
 </a>
