@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamfireworks&theme=dark" alt="dreamfireworks" />
 </a> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dreamfireworks&-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dreamfireworks&-ma&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank" align="left">
