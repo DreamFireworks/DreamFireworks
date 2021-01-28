@@ -1,6 +1,6 @@
 <h3 align="center">"And miles to go before I sleep"</h3>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamfireworks&hide=contribs&show_icons=true&locale=en&theme=dark" alt="dreamfireworks" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamfireworks&hide=contribs&show_icons=true&locale=en&theme=dark&cache_seconds=2000" alt="dreamfireworks" />
 </a>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamfireworks&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="dreamfireworks" />
