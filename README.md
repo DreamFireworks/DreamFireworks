@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamfireworks&theme=dark" alt="dreamfireworks" />
 </a>
+
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamfireworks&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="dreamfireworks" />
 </a>
