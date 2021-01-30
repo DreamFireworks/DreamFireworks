@@ -11,6 +11,7 @@
 </a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dreamfireworks&-ma&rank=S,AAA,AA,A,B&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/DreamFireworks/badges/small)
 <br>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank" align="left">
