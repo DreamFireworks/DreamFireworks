@@ -12,9 +12,6 @@
 <br> -->
 <br>
 
-![Metrics](https://metrics.lecoq.io/DreamFireworks?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=undefined&config.timezone=Europe%2FIstanbul&config.animated=true)
-
-<br>
 <a href="https://www.linkedin.com/in/serhan-eraslan/" target="_blank" align="left">
   <img src="https://komarev.com/ghpvc/?username=dreamfireworks&label=Profile%20views&color=0e75b6&style=flat" alt="dreamfireworks" />
 </a>
